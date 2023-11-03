@@ -1,0 +1,146 @@
+﻿  DEALSD.cpp
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.h(116,26): warning C4305: “初始化”: 从“double”到“float”截断
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(53,48): warning C4244: “参数”: 从“float”转换到“short”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(192,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(193,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(214,18): warning C4244: “return”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(334,35): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(334,29): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(334,69): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(334,63): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(336,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(338,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(340,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(342,20): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(377,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\vs2022\Community\VC\Tools\MSVC\14.32.31326\include\xutility(149,77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\vs2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2010): message : 查看对正在编译的函数 模板 实例化“void std::_Construct_in_place<_Ty,upm::LineDetectionExtraInfoPtr&,cv::Mat&,double&,double&,int&,bool&,std::vector<int,std::allocator<int>>&,double&,double&>(_Ty &,upm::LineDetectionExtraInfoPtr &,cv::Mat &,double &,double &,int &,bool &,std::vector<int,std::allocator<int>> &,double &,double &) noexcept(false)”的引用
+          with
+          [
+              _Ty=upm::EdgeDrawer
+          ]
+E:\vs2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : 查看对正在编译的函数 模板 实例化“std::_Ref_count_obj2<upm::EdgeDrawer>::_Ref_count_obj2<upm::LineDetectionExtraInfoPtr&,cv::Mat&,double&,double&,int&,bool&,std::vector<int,std::allocator<int>>&,double&,double&>(upm::LineDetectionExtraInfoPtr &,cv::Mat &,double &,double &,int &,bool &,std::vector<int,std::allocator<int>> &,double &,double &)”的引用
+E:\vs2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2730): message : 查看对正在编译的函数 模板 实例化“std::_Ref_count_obj2<upm::EdgeDrawer>::_Ref_count_obj2<upm::LineDetectionExtraInfoPtr&,cv::Mat&,double&,double&,int&,bool&,std::vector<int,std::allocator<int>>&,double&,double&>(upm::LineDetectionExtraInfoPtr &,cv::Mat &,double &,double &,int &,bool &,std::vector<int,std::allocator<int>> &,double &,double &)”的引用
+E:\vs2022\DEALSD_code\LineDetector\src\DEALSD.cpp(71): message : 查看对正在编译的函数 模板 实例化“std::shared_ptr<upm::EdgeDrawer> std::make_shared<upm::EdgeDrawer,upm::LineDetectionExtraInfoPtr&,cv::Mat&,double&,double&,int&,bool&,std::vector<int,std::allocator<int>>&,double&,double&>(upm::LineDetectionExtraInfoPtr &,cv::Mat &,double &,double &,int &,bool &,std::vector<int,std::allocator<int>> &,double &,double &)”的引用
+  EdgeDrawer.cpp
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.h(116,26): warning C4305: “初始化”: 从“double”到“float”截断
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(66,36): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(88,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(133,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(188,89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(750,50): warning C4305: “+=”: 从“double”到“float”截断
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(751,54): warning C4305: “-=”: 从“double”到“float”截断
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(809,58): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(809,52): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(822,9): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.cpp(823,9): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  FullSegmentInfo.cpp
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(36,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(103,12): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(104,12): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(105,12): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(106,12): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(107,12): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(153,28): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(231,37): warning C4244: “=”: 从“int64_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(233,35): warning C4244: “=”: 从“int64_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(234,37): warning C4244: “=”: 从“int64_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(236,35): warning C4244: “=”: 从“int64_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\vs2022\DEALSD_code\LineDetector\src\FullSegmentInfo.cpp(237,37): warning C4244: “=”: 从“int64_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  main.cpp
+E:\vs2022\DEALSD_code\LineDetector\src\EdgeDrawer.h(116,26): warning C4305: “初始化”: 从“double”到“float”截断
+E:\vs2022\DEALSD_code\LineDetector\src\main.cpp(27,23): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  LineDetector.vcxproj -> E:\vs2022\DEALSD_code\LineDetector\x64\Debug\LineDetector.pyd
